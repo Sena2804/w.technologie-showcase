@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "icon": "1.png",
+    "iconLight": "pers1.jpg",
+    "banner": "SITEWEB.webp",
+    "title": "Intégration de solutions Web adaptées",
+    "text": "Nous intégrons des solutions sur mesure qui optimisent vos processus et s’adaptent parfaitement à votre environnement digital.",
+    "descriptionLong": "Nous intégrons des solutions sur mesure qui optimisent vos processus et s’adaptent parfaitement à votre environnement digital.",
+    "description": "Nos intégrations sont pensées pour s’adapter parfaitement à vos processus internes, garantissant efficacité, performance et évolutivité.",
+    "features": [
+      "Audit et analyse des besoins",
+      "Déploiement rapide et fiable",
+      "Maintenance continue"
+    ],
+    "process": [
+      {
+        "step": "01",
+        "title": "Analyse des besoins",
+        "text": "Nous commençons par comprendre vos objectifs afin de définir les meilleures solutions techniques adaptées à votre environnement."
+      },
+      {
+        "step": "02",
+        "title": "Conception de la solution",
+        "text": "Nos experts conçoivent une architecture fonctionnelle et scalable, pensée pour s’intégrer parfaitement à vos outils existants."
+      },
+      {
+        "step": "03",
+        "title": "Implémentation et intégration",
+        "text": "Nous déployons les solutions avec soin pour garantir une intégration fluide, rapide et sans interruption de vos services."
+      },
+      {
+        "step": "04",
+        "title": "Suivi et optimisation",
+        "text": "Une fois la solution en place, nous assurons le suivi et les mises à jour pour maintenir performance et sécurité."
+      }
+    ],
+    "gallery": ["QUESTIONSS.webp", "NOTREEXP.webp"],
+    "faq": [
+      {
+        "question": "Comment garantissez-vous la compatibilité des solutions ?",
+        "answer": "Nous analysons votre environnement technique existant afin de concevoir des solutions parfaitement compatibles et évolutives."
+      },
+      {
+        "question": "Proposez-vous des intégrations tierces ?",
+        "answer": "Oui, nous intégrons des outils externes tels que CRM, ERP, systèmes de paiement et services cloud selon vos besoins."
+      },
+      {
+        "question": "Offrez-vous un support après l’intégration ?",
+        "answer": "Un service de maintenance et d’assistance est inclus pour assurer la stabilité et la performance de votre solution."
+      }
+    ],
+    "approche": "Notre approche",
+    "approche1": "Nous commençons par une analyse approfondie de vos besoins et de vos systèmes existants.",
+    "approche2": "Ensuite, nous intégrons des solutions personnalisées qui s’adaptent à vos processus et améliorent la productivité de votre équipe.",
+    "activeClass": ""
+  },
+
+  {
+    "id": 2,
+    "icon": "2.png",
+    "iconLight": "23.png",
+    "banner": "dev.webp",
+    "title": "Développement Web et mobiles",
+    "text": "Nous créons des sites et applications performants, modernes et sécurisés, conçus pour booster votre visibilité et votre croissance.",
+    "descriptionLong": "Nous créons des sites et applications performants, modernes et sécurisés, conçus pour booster votre visibilité et votre croissance.",
+    "description": "Nous concevons des plateformes web et mobiles alliant rapidité, modernité et sécurité pour propulser votre présence digitale.",
+    "features": [
+      "Applications performantes et responsives",
+      "Technologies modernes et évolutives",
+      "Optimisation pour tous les appareils"
+    ],
+    "process": [
+      {
+        "step": "01",
+        "title": "Recherche et planification",
+        "text": "Nous étudions votre marché et vos besoins pour définir les fonctionnalités clés de votre application ou site web."
+      },
+      {
+        "step": "02",
+        "title": "Conception UI/UX",
+        "text": "Nos designers créent une expérience utilisateur intuitive et visuellement attrayante."
+      },
+      {
+        "step": "03",
+        "title": "Développement et tests",
+        "text": "Nos développeurs bâtissent des solutions performantes, sécurisées et compatibles sur tous les supports."
+      },
+      {
+        "step": "04",
+        "title": "Lancement et maintenance",
+        "text": "Nous vous accompagnons dans le déploiement et la maintenance pour assurer la pérennité de votre produit digital."
+      }
+    ],
+    "gallery": ["QUESTIONSS.webp", "NOTREEXP.webp"],
+    "faq": [
+      {
+        "question": "Quels types d’applications développez-vous ?",
+        "answer": "Nous concevons des sites vitrines, e-commerces, applications mobiles natives et hybrides, selon vos besoins."
+      },
+      {
+        "question": "Comment assurez-vous la sécurité de mes applications ?",
+        "answer": "Nous suivons les meilleures pratiques de sécurité, incluant le chiffrement, la validation des entrées et les tests de vulnérabilité."
+      },
+      {
+        "question": "Pouvez-vous maintenir et faire évoluer mon application ?",
+        "answer": "Oui, nous proposons un service de maintenance et d’évolution continue pour garantir la longévité de vos produits digitaux."
+      }
+    ],
+    "approche": "Notre expertise",
+    "approche1": "Nous créons des sites et applications modernes, performants et responsives, pensés pour offrir une expérience utilisateur fluide.",
+    "approche2": "Chaque projet est développé avec des technologies récentes et optimisées pour la rapidité, la sécurité et la scalabilité.",
+    "activeClass": ""
+  },
+
+  {
+    "id": 3,
+    "icon": "3.png",
+    "iconLight": "23.png",
+    "banner": "ux.webp",
+    "title": "Infogérance et support technique",
+    "text": "Nous gérons et optimisons vos systèmes informatiques grâce à une maintenance proactive, une surveillance continue, fiable et disponible.",
+    "descriptionLong": "Nous gérons et optimisons vos systèmes informatiques grâce à une maintenance proactive, une surveillance continue, fiable et disponible.",
+    "description": "Nous gérons et optimisons vos systèmes informatiques grâce à une maintenance proactive, une surveillance continue et un support technique 24/7, pour garantir performance, fiabilité et disponibilité.",
+    "features": ["Maintenance à toute heure", "Surveillance continue"],
+    "process": [
+      {
+        "step": "01",
+        "title": "Recherche utilisateur",
+        "text": "Nous étudions les comportements et besoins des utilisateurs pour orienter le design."
+      },
+      {
+        "step": "02",
+        "title": "Prototypage",
+        "text": "Nous créons des maquettes interactives qui traduisent vos idées en interfaces concrètes."
+      },
+      {
+        "step": "03",
+        "title": "Design et interaction",
+        "text": "Nous concevons des visuels harmonieux et intuitifs, centrés sur la facilité d’utilisation."
+      },
+      {
+        "step": "04",
+        "title": "Tests et amélioration",
+        "text": "Nous validons l’expérience utilisateur par des tests réels et optimisons chaque détail."
+      }
+    ],
+    "gallery": ["QUESTIONSS.webp", "NOTREEXP.webp"],
+    "faq": [
+      {
+        "question": "Quelle est votre approche en design UX ?",
+        "answer": "Nous plaçons l’utilisateur au centre de la conception pour créer des expériences simples, efficaces et agréables."
+      },
+      {
+        "question": "Réalisez-vous des tests utilisateurs ?",
+        "answer": "Oui, chaque design est validé à travers des tests réels afin d’optimiser la navigation et l’ergonomie."
+      },
+      {
+        "question": "Pouvez-vous refondre une interface existante ?",
+        "answer": "Nous modernisons les interfaces existantes pour renforcer l’identité visuelle et améliorer la satisfaction des utilisateurs."
+      }
+    ],
+    "approche": "Notre mission",
+    "approche1": "Nous gérons et optimisons vos systèmes informatiques grâce à une maintenance proactive, une surveillance continue, fiable et disponible.",
+    "approche2": "Nos designers associent créativité et stratégie pour offrir des expériences digitales mémorables et performantes.",
+    "activeClass": ""
+  },
+
+  {
+    "id": 4,
+    "icon": "4.png",
+    "iconLight": "23.png",
+    "banner": "index.webp",
+    "title": "Cybersecurité et protection des données",
+    "text": "Nous protégeons vos infrastructures grâce à une surveillance avancée des menaces, des mesures de prévention robustes et une réaction rapide aux incidents, avec une formation aux bonnes pratiques de sécurité.",
+    "descriptionLong": "Nous protégeons vos infrastructures grâce à une surveillance avancée des menaces, des mesures de prévention robustes et une réaction rapide aux incidents, avec une formation aux bonnes pratiques de sécurité.",
+    "description": "Nous protégeons vos infrastructures grâce à une surveillance avancée des menaces, des mesures de prévention robustes et une réaction rapide aux incidents, tout en formant vos équipes aux bonnes pratiques de sécurité.",
+    "features": [
+      "Solutions cloud et hybrides",
+      "Sécurité et redondance des systèmes",
+      "Performance et connectivité maximale"
+    ],
+    "process": [
+      {
+        "step": "01",
+        "title": "Étude d’infrastructure",
+        "text": "Nous analysons vos besoins techniques et identifions la meilleure configuration réseau."
+      },
+      {
+        "step": "02",
+        "title": "Conception de l’architecture",
+        "text": "Nous élaborons une architecture robuste, sécurisée et adaptée à votre environnement."
+      },
+      {
+        "step": "03",
+        "title": "Déploiement et configuration",
+        "text": "Nous mettons en œuvre les solutions réseau cloud, locales ou hybrides selon vos exigences."
+      },
+      {
+        "step": "04",
+        "title": "Supervision et maintenance",
+        "text": "Nous assurons la surveillance, l’optimisation et la mise à jour continue de votre infrastructure."
+      }
+    ],
+    "gallery": ["QUESTIONSS.webp", "NOTREEXP.webp"],
+    "faq": [
+      {
+        "question": "Quels types d’architectures proposez-vous ?",
+        "answer": "Nous concevons des architectures cloud, locales ou hybrides selon vos contraintes techniques et votre budget."
+      },
+      {
+        "question": "Comment garantissez-vous la sécurité du réseau ?",
+        "answer": "Nous appliquons des protocoles avancés, incluant pare-feu, segmentation et surveillance en temps réel."
+      },
+      {
+        "question": "Offrez-vous un service de migration vers le cloud ?",
+        "answer": "Oui, nous accompagnons nos clients dans la migration sécurisée de leurs systèmes vers des environnements cloud performants."
+      }
+    ],
+    "approche": "Notre expertise",
+    "approche1": "Nous concevons et déployons des infrastructures réseau robustes, fiables et adaptées à vos besoins de performance.",
+    "approche2": "Notre objectif est d’assurer la continuité et la sécurité de vos opérations tout en optimisant vos coûts informatiques.",
+    "activeClass": ""
+  },
+
+  {
+    "id": 5,
+    "icon": "5.png",
+    "iconLight": "23.png",
+    "banner": "reseaux.jpg",
+    "title": "Architecture réseau ( cloud, local, hybride, etc.)",
+    "text": "Nous mettons en place des infrastructures réseau fiables et évolutives, adaptées à vos besoins de performance et de sécurité en un temps record.",
+    "descriptionLong": "Nous mettons en place des infrastructures réseau fiables et évolutives, adaptées à vos besoins de performance et de sécurité en un temps record.",
+    "description": "Nous bâtissons des architectures réseau solides et flexibles, capables de soutenir vos opérations locales, cloud ou hybrides en toute sécurité.",
+    "features": [
+      "Solutions cloud et hybrides",
+      "Sécurité et redondance des systèmes",
+      "Performance et connectivité maximale"
+    ],
+    "gallery": ["QUESTIONSS.webp", "NOTREEXP.webp"]
+  }
+]

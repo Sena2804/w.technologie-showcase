@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "review": "W Technologie a révolutionné notre approche digitale. Leur expertise en développement web nous a permis de lancer notre plateforme e-commerce en un temps record. Service impeccable et résultats au rendez-vous !",
+        "name": "Jean Dupont",
+        "designation": "Directeur Technique",
+        "thumb": "10.jpg"
+    },
+    {
+        "id": 2,
+        "review": "Nous avons collaboré avec W Technologie pour notre application mobile. Leur équipe est compétente, créative et toujours à l'écoute. Un partenaire de confiance pour nos projets technologiques.",
+        "name": "Marie Lefebvre",
+        "designation": "Chef de Projet Digital",
+        "thumb": "11.jpg"
+    },
+    {
+        "id": 3,
+        "review": "Les solutions proposées par W Technologie ont boosté notre productivité. Leur conseil en stratégie digitale est précieux et leurs réalisations parlent d'elles-mêmes. Hautement recommandé !",
+        "name": "Pierre Martin",
+        "designation": "Entrepreneur",
+        "thumb": "12.jpg"
+    }
+]

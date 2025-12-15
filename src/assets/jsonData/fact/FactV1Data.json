@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "animation": "animate__animated animate__fadeInDown",
+        "count": 2,
+        "suffix": "",
+        "label": "Client Mondial",
+        "duration": "0"
+    },
+    {
+        "id": 2,
+        "animation": "animate__animated animate__fadeInUp",
+        "count": 98,
+        "suffix": "%",
+        "label": "Note Positive",
+        "duration": "0.5s"
+    },
+    {
+        "id": 3,
+        "animation": "animate__animated animate__fadeInDown",
+        "count": 10,
+        "suffix": "+",
+        "label": "Nombre de Projets",
+        "duration": "0"
+    },
+    {
+        "id": 4,
+        "animation": "animate__animated animate__fadeInUp",
+        "count": 1,
+        "suffix": "",
+        "label": "Années d'expérience",
+        "duration": "0.5s"
+    }
+]

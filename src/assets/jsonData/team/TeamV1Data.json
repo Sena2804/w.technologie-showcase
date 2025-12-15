@@ -1,0 +1,64 @@
+[
+  {
+    "id": 1,
+    "thumb": "gerant.webp",
+    "name": "Lionel WILSON",
+    "designation": "Gérant & Responsable Informatique",
+    "role": "manager",
+    "text": "Nous croyons que le progrès naît de la rencontre entre la technologie et les personnes qui la font vivre. Chaque collaborateur compte : c’est grâce à leur engagement et leur talent que nous avançons, innovons et grandissons.",
+    "age": "28",
+    "linkedin": "https://www.linkedin.com/in/lionel-wilson",
+    "email": "lwilson@w-technologie.com",
+    "phone": "+225 07 00 71 35 01"
+  },
+
+  {
+    "id": 2,
+    "thumb": "Od.webp",
+    "name": "Olivia DIABATE",
+    "designation": "Responsable Commerciale Marketing & Communication",
+    "role": "marketing",
+    "text": "Nous voyons l’innovation comme le moteur de toute croissance durable. Elle nous pousse à repenser nos offres, à anticiper les besoins de nos clients et à créer des solutions qui font la différence. Innover, c’est refuser la routine pour bâtir chaque jour une entreprise plus audacieuse, plus créative et plus proche de ceux qu’elle sert.",
+    "age": "31",
+    "linkedin": "https://www.linkedin.com/in/olivia-diabate-29234a124/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    "email": "odiabate@w-technologie.com",
+    "phone": "+225 07 00 71 35 01"
+  },
+  {
+    "id": 3,
+    "thumb": "Ab.webp",
+    "name": "Auriane BLEHIRY",
+    "designation": "Chargée Commerciale Marketing & Com",
+    "role": "marketing",
+    "text": "Accompagne le développement de l’entreprise en pilotant les actions commerciales, marketing et communication. Entre créativité et relation client, elle œuvre chaque jour à renforcer la visibilité de la marque et la satisfaction des partenaires.",
+    "age": "31",
+    "linkedin": "https://www.linkedin.com/in/auriane-aniela-blehiry-7a5b281b2/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+    "email": "ablehiry@w-technologie.com",
+    "phone": "+225-07-11-22-33-44"
+  },
+  {
+    "id": 4,
+    "thumb": "seka.webp",
+    "name": "Edwige SEKA",
+    "designation": "Chargée Administrative et Commerciale",
+    "role": "commercial",
+    "text": "Membre clé de l’équipe W. Tech, Mlle SEKA met son sens du contact et sa polyvalence au service de la relation client et de la gestion administrative. Passionnée par l’innovation et la satisfaction client, elle veille à offrir une expérience fluide et de qualité à chaque partenaire de l’entreprise.",
+    "age": "31",
+    "linkedin": "https://www.linkedin.com/company/wtechafrique/",
+    "email": "lseka@w-technologie.com",
+    "phone": "+225 07 00 71 35 01"
+  },
+
+  {
+    "id": 7,
+    "thumb": "cedric.webp",
+    "name": "Cedrick KONATE",
+    "designation": "Développeur Full Stack",
+    "role": "devellopeur",
+    "text": "Développeur Full Stack passionné avec 3 ans d’expérience dans la conception et le développement d’applications web performantes. Il maîtrise aussi bien le frontend que le backend, ce qui lui permet de gérer des projets de bout en bout, de l’interface utilisateur à l’architecture serveur.",
+    "age": "30",
+    "linkedin": "https://www.linkedin.com/in/kouakou-cedrick-konate-956159280/",
+    "email": "codeurpro04@gmail.com",
+    "phone": "+225 07 00 71 35 01"
+  }
+]

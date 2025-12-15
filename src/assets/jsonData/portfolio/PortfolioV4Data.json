@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "thumb": "37.jpg",
+    "thumbFull": "offres.webp",
+    "thumbFull2": "bannier.webp",
+    "title": "Afrique Evasion",
+    "title2": "Voyagez léger, réservez vite !",
+    "title3": "Boost digital & visibilité",
+    "li1": "Campagnes engageantes sur les réseaux sociaux",
+    "li2": "SEO optimisé pour un maximum de visibilité",
+    "li3": "Contenus créatifs qui font vibrer l’esprit du voyage",
+    "li4": "Collaboration avec influenceurs et créateurs africains",
+    "li5": "Une marque connectée aux nouvelles générations de voyageurs",
+    "tag": "Voyage & Tourisme",
+    "client": "Hébergement, Billetterie, Réservation, Tourisme, Technologie",
+    "description": "“Pour Afrique evasion : “AFRIQUE EVASION” est une application web qui combine les forces des plateformes internationales de réservations d'hébergements mais adaptée au contexte Africain. Ce site propose: Des réservations d’ hébergements fiables La vente de billets d’ avions Des excursions avec des expériences locales authentiques Avec pour objectif de promouvoir le patrimoine culturel de l’ Afrique",
+    "descriptionP": "Avec Afrique Évasion, tout se fait depuis votre smartphone : réserver une chambre, un vol ou une expérience locale n’a jamais été aussi simple. Interface rapide, design fluide et navigation intuitive — tout pour voyager sans stres.",
+    "gallery": ["bannier.webp", "activite.webp"],
+    "sections": {
+      "background": {
+        "paragraphs": [
+          "L’idée d’Afrique Évasion est née d’un constat simple : malgré la richesse touristique et culturelle du continent africain, il existait très peu de plateformes locales capables d’offrir une expérience de réservation fluide, sécurisée et adaptée aux réalités africaines.",
+          "Le projet vise à valoriser les destinations africaines, faciliter la réservation d’hébergements et de vols, et mettre en avant des expériences locales authentiques. Afrique Évasion combine ainsi innovation technologique et passion du voyage pour connecter voyageurs et partenaires sur une plateforme moderne et intuitive."
+        ]
+      },
+      "challenges": {
+        "intro": "Le principal défi consistait à créer une plateforme capable de gérer plusieurs services tout en garantissant performance, sécurité et confiance.",
+        "details": [
+          "Gestion simultanée des hébergements, vols et excursions",
+          "Navigation rapide et fluide sur mobile et desktop",
+          "Sécurité des données et fiabilité des paiements",
+          "Création d’un climat de confiance entre voyageurs et prestataires locaux",
+          "Positionnement d’une marque africaine forte face aux géants internationaux"
+        ],
+        "prioritiesTitle": "Nos axes prioritaires pour relever ces défis",
+        "priorities": [
+          "Créer une interface intuitive et ergonomique",
+          "Mettre en place une infrastructure technique performante",
+          "Renforcer la visibilité via un marketing digital ciblé",
+          "Assurer la fiabilité des partenaires et des services proposés"
+        ]
+      },
+      "solution": {
+        "paragraphs": [
+          "La solution a reposé sur la conception d’une plateforme immersive, pensée pour valoriser l’identité visuelle africaine tout en respectant les standards internationaux du digital. L’interface a été conçue pour guider l’utilisateur naturellement à travers les différents services proposés.",
+          "Un travail particulier a été mené sur les performances et l’optimisation technique afin de garantir une navigation rapide, fluide et sécurisée sur tous les supports. Cette approche a permis d’offrir une expérience utilisateur cohérente, fiable et agréable, aussi bien sur mobile que sur desktop."
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "thumb": "38.jpg",
+    "thumbFull": "meetmed4.webp",
+    "thumbFull2": "meetmed5.webp",
+    "title": "MeetMed Pro",
+    "title2": "Santé connectée, rendez-vous simplifiés",
+    "title3": "Optimisation & confiance",
+    "li1": "Interface conviviale pour patients et médecins",
+    "li2": "Système de prise de rendez-vous efficace",
+    "li3": "Gestion sécurisée des données médicales",
+    "li4": "Support multi-spécialités et établissements",
+    "li5": "Communication fluide entre patients et praticiens",
+    "tag": "Medical & Santé",
+    "client": "Docteur, Santé, Réservation, Médical",
+    "description": "MeetMed est une plateforme web facilitant la prise de rendez-vous médicaux entre patients et professionnels de santé, qu’ils soient spécialistes ou généralistes, avec un accès simple et rapide, quel que soit le lieu.",
+    "descriptionP": "Grâce à MeetMed Pro, patients et médecins bénéficient d’une solution intuitive pour gérer leurs consultations, améliorer la communication, et garantir la sécurité et la confidentialité des échanges.",
+    "gallery": ["meetmed1.webp", "meetmed5.webp"],
+    "sections": {
+      "background": {
+        "paragraphs": [
+          "Le projet MeetMed Pro est né du besoin d’une solution digitale fiable pour connecter patients et professionnels de santé, facilitant la prise de rendez-vous et la gestion des consultations dans un environnement sécurisé.",
+          "Cette plateforme vise à moderniser le secteur médical en proposant une interface intuitive, accessible sur tous types de dispositifs, pour une expérience utilisateur optimisée."
+        ]
+      },
+      "challenges": {
+        "intro": "Les principaux défis à relever étaient nombreux et complexes, liés à la spécificité du domaine médical et aux exigences de sécurité.",
+        "details": [
+          "Garantir la confidentialité et la sécurité des données sensibles",
+          "Offrir une interface simple et ergonomique pour des profils variés",
+          "Assurer la compatibilité multi-dispositifs (mobile, desktop)",
+          "Intégrer un système fiable de gestion des rendez-vous",
+          "Faciliter la communication entre patients, médecins et établissements"
+        ],
+        "prioritiesTitle": "Axes stratégiques pour relever ces défis",
+        "priorities": [
+          "Développer une infrastructure sécurisée et conforme aux normes",
+          "Concevoir une interface claire et accessible",
+          "Optimiser les performances pour une utilisation fluide",
+          "Renforcer la confiance grâce à la transparence et au support client"
+        ]
+      },
+      "solution": {
+        "paragraphs": [
+          "La solution développée repose sur un design modulable et adaptable, offrant aux utilisateurs une expérience fluide et sécurisée, avec une gestion intelligente des rendez-vous et des profils.",
+          "Un accent particulier a été mis sur la sécurité des données, grâce à des protocoles avancés et une architecture robuste, tout en garantissant une navigation intuitive et rapide sur tous les appareils."
+        ]
+      }
+    }
+  }
+]

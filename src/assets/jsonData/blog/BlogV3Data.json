@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "date": "12 Octobre, 2025",
+        "dateIcon": "far fa-calendar-alt",
+        "author": "w.technologies",
+        "authorIcon": "far fa-user-circle",
+        "tag": "Burger",
+        "title": "Formation en cybersécurité ,transformation digitale et IA",
+        "title2": "Formation en cybersécurité ,transformation digitale et IA",
+        "text": "Nous proposons également des formations en cybersécurité ; en Transformation digitale et IA.Ces formations sont conçues pour différents secteurs et sont modulables en fonction des objectifs et des bugdets. Banque & Assurance , Santé , Industrie et Logistique , Administration publique , Education , Télécoms & TIC.",
+        "btnText": "Lire plus",
+        "btnIcon": "fas fa-angle-right",
+        "thumbFull": "formation.webp",
+        "thumb": "formation.webp",
+        "animationDelay": "300ms"
+    },
+    {
+        "id": 2,
+        "date": "12 Octobre, 2025",
+        "dateIcon": "far fa-calendar-alt",
+        "author": "w.technologies",
+        "authorIcon": "far fa-user-circle",
+        "tag": "Food",
+        "title": "Octobre Rose : W.Tech soutient la lutte contre le cancer du sein",
+        "title2": "Octobre Rose : W.Tech soutient la lutte contre le cancer du sein",
+        "text": "Chez W.Tech, nous croyons que la technologie et la solidarité peuvent aller de pair. Ce mois-ci, nous nous unissons pour soutenir la lutte contre le cancer du sein. 💗 Un simple geste peut tout changer : FAITES VOUS DEPISTER",
+        "btnText": "Lire plus",
+        "btnIcon": "fas fa-angle-right",
+        "thumbFull": "octobre.webp",
+        "thumb": "octobre.webp",
+        "animationDelay": "500ms"
+    },
+    {
+        "id": 3,
+        "date": "2 Novembre, 2025",
+        "dateIcon": "far fa-calendar-alt",
+        "author": "w.technologies",
+        "authorIcon": "far fa-user-circle",
+        "tag": "Pizza",
+        "title": "Novembre est bleu, pensons à eux 💙",
+        "title2": "Novembre est bleu, pensons à eux 💙",
+        "text": "Le cancer de la prostate touche des milliers d’hommes chaque année. Un dépistage à temps peut sauver des vies. Ce mois-ci, prenons quelques minutes pour en parler, s’informer, se faire dépister. Parce que le courage, c’est aussi de se faire examiner. #novembrebleu #prevention #santedeshommes",
+        "btnText": "Lire plus",
+        "btnIcon": "fas fa-angle-right",
+        "thumbFull": "nov.webp",
+        "thumb": "nov.webp",
+        "animationDelay": "700ms"
+    },
+    {
+        "id": 4,
+        "date": "13 Decembre, 2025",
+        "dateIcon": "far fa-calendar-alt",
+        "author": "w.technologies",
+        "authorIcon": "far fa-user-circle",
+        "tag": "Pizza",
+        "title": "GAGNE UN SITE WEB !😍😍",
+        "title2": "GAGNE UN SITE WEB !😍😍",
+        "text": "Bonjour chers Abonnés\n\ntentez de gagner un site web gratuitement. Veuillez participer en suivant les étapes décrites en image....",
+        "btnText": "Lire plus",
+        "btnIcon": "fas fa-angle-right",
+        "thumbFull": "site.jpeg",
+        "thumb": "site.jpeg",
+        "animationDelay": "700ms"
+    }
+    
+]

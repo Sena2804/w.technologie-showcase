@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "ratings": "5.0",
+        "text": "W Technologie a transformé notre présence en ligne avec un site web moderne et performant. Leur équipe est professionnelle, réactive et a su comprendre nos besoins spécifiques. Je recommande vivement leurs services !",
+        "avatar": "pers.jpg",
+        "name": "Sophie Bernard",
+        "designation": "Consultante IT"
+    },
+    {
+        "id": 2,
+        "ratings": "4.7",
+        "text": "Nous avons fait appel à W Technologie pour développer notre application mobile. Le résultat dépasse nos attentes : interface intuitive, fonctionnalités avancées et support technique excellent. Une collaboration fructueuse !",
+        "avatar": "pers1.jpg",
+        "name": "Thomas Dubois",
+        "designation": "PDG"
+    },
+    {
+        "id": 3,
+        "ratings": "4.9",
+        "text": "Les conseils en stratégie digitale de W Technologie nous ont permis d'optimiser nos processus internes. Leur expertise en technologie est remarquable et ils savent adapter leurs solutions à chaque entreprise.",
+        "avatar": "pers2.jpg",
+        "name": "Isabelle Moreau",
+        "designation": "Responsable Marketing"
+    }
+]

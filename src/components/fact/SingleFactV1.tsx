@@ -14,7 +14,7 @@ const SingleFactV1 = ({ fact }: { fact: DataType }) => {
 
     return (
         <>
-            <Animate className={`${animation}`} duration={duration}>
+            <Animate className={`${animation} circle-item`} duration={duration}>
                 <div className={`fun-fact`}>
                     <div className="counter">
                         <div className="timer"><CountUp end={count} enableScrollSpy /></div>

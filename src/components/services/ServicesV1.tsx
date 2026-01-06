@@ -56,12 +56,12 @@ const ServicesV1 = ({ hasTitle, sectionClass }: DataType) => {
                         <div className="row">
                             {ServicesV1Data.slice(0, 5).map((service) => (
                                 <div
-                                    className="col-xl-4 col-lg-3 col-md-6 single-item"
+                                    className="col-xl-4 col-lg-3 col-md-6 single-item d-flex align-items-stretch"
                                     key={service.id}
                                     onMouseEnter={() => handleMouseEnter(service.id)}
                                     onMouseLeave={handleMouseLeave}
                                 >
-                                    <div className={`services-style-one-item ${activeServiceId === service.id ? 'active' : ''}`}>
+                                    <div className={`services-style-one-item h-100 d-flex flex-column ${activeServiceId === service.id ? 'active' : ''}`}>
                                         <div className="icon">
                                             <img className="regular-img" src={`/assets/img/icon/${service.icon}`} alt="Image Not Found" width={75} height={60} />
 

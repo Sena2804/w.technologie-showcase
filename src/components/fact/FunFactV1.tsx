@@ -12,7 +12,20 @@ const FunFactV1 = ({ sectionClass }: DataType) => {
                 <div className="container">
                     <div className="row">
                         <div className="col-lg-12">
-                            <div className="fun-fact-circle-lists">
+                            {/* <div className="fun-fact-circle-lists d-flex justify-content-center align-items-center flex-nowrap">
+                                {FactV1Data.map((fact, index) => (
+                                    <div 
+                                        key={fact.id}
+                                        style={{ 
+                                            zIndex: index === 1 ? 2 : 1,
+                                            marginLeft: index === 0 ? '0' : '160px'
+                                        }}
+                                    >
+                                        <SingleFactV1 fact={fact} />
+                                    </div>
+                                ))}
+                            </div> */}
+                            <div className="fun-fact-circle-lists d-flex justify-content-center">
                                 {FactV1Data.map(fact =>
                                     <SingleFactV1 fact={fact} key={fact.id} />
                                 )}

@@ -13451,10 +13451,12 @@ ul.list-disc li {
 }
 
 .fun-fact-circle-lists {
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr;
-	margin-top: 195px;
-	margin-bottom: 170px;
+	display: flex !important;
+    justify-content: center;
+    align-items: center;
+    margin-top: 195px;
+    margin-bottom: 170px;
+    gap: 140px;
 }
 
 .fun-fact-circle-lists .fun-fact {
@@ -13507,6 +13509,10 @@ ul.list-disc li {
 	height: 380px;
 	width: 380px;
 	background: var(--white);
+}
+
+.bg-dark .fun-fact-circle-lists .fun-fact:nth-child(1)::after {
+	background: var(--dark);
 }
 
 .bg-dark .fun-fact-circle-lists .fun-fact:nth-child(2)::after {
@@ -15946,6 +15952,10 @@ ul.footer-social li a img {
 	}
 
 	.services-style-one-items {
+		display: flex;
+		flex-direction: column;
+		height: 100%;
+		width: 100%;
 		margin-top: -30px;
 	}
 

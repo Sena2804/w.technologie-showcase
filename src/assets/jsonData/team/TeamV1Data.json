@@ -51,24 +51,24 @@
 
   {
     "id": 7,
-    "thumb": "cedric.webp",
-    "name": "Cedrick KONATE",
-    "designation": "Développeur Full Stack",
+    "thumb": "MS.jpeg",
+    "name": "Matar SECK",
+    "designation": "Manager Equipe Dev",
     "role": "devellopeur",
-    "text": "Développeur Full Stack passionné avec 3 ans d’expérience dans la conception et le développement d’applications web performantes. Il maîtrise aussi bien le frontend que le backend, ce qui lui permet de gérer des projets de bout en bout, de l’interface utilisateur à l’architecture serveur.",
+    "text": "Développeur Full Stack passionné avec 5 ans d’expérience dans la conception et le développement d’applications web performantes. Il maîtrise aussi bien le frontend que le backend, ce qui lui permet de gérer des projets de bout en bout, de l’interface utilisateur à l’architecture serveur.",
     "age": "30",
-    "linkedin": "https://www.linkedin.com/in/kouakou-cedrick-konate-956159280/",
+    "linkedin": "https://www.linkedin.com/in/matar-seck/",
     "email": "codeurpro04@gmail.com",
     "phone": "+225 07 00 71 35 01"
   },
 
   {
     "id": 8,
-    "thumb": "MS.jpeg",
-    "name": "Mactar SECK",
-    "designation": "Manager Equipe Dev",
+    "thumb": "cedric.webp",
+    "name": "Cedrick KONATE",
+    "designation": "Développeur Full Stack",
     "role": "devellopeur",
-    "text": "Développeur Full Stack passionné avec 5 ans d’expérience dans la conception et le développement d’applications web performantes. Il maîtrise aussi bien le frontend que le backend, ce qui lui permet de gérer des projets de bout en bout, de l’interface utilisateur à l’architecture serveur.",
+    "text": "Développeur Full Stack passionné avec 3 ans d’expérience dans la conception et le développement d’applications web performantes. Il maîtrise aussi bien le frontend que le backend, ce qui lui permet de gérer des projets de bout en bout, de l’interface utilisateur à l’architecture serveur.",
     "age": "30",
     "linkedin": "https://www.linkedin.com/in/kouakou-cedrick-konate-956159280/",
     "email": "codeurpro04@gmail.com",

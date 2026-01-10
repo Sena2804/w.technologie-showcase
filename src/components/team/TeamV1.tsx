@@ -118,11 +118,13 @@ const TeamV1 = ({ sectionClass, hasTitle }: DataType) => {
                 </div>
 
                 {/* TAB 2 – MARKETING (3) */}
-                <div className="tab-pane fade" id="tab2">
+                {/* <div className="tab-pane fade" id="tab2">
                   <Swiper
                     slidesPerView={1}
                     spaceBetween={30}
                     height={null}
+                    allowTouchMove={false}
+                    enabled={false}
                     breakpoints={{
                       768: { slidesPerView: 2, spaceBetween: 60 },
                     }}
@@ -135,10 +137,22 @@ const TeamV1 = ({ sectionClass, hasTitle }: DataType) => {
                       </SwiperSlide>
                     ))}
                   </Swiper>
+                </div> */}
+
+                <div className="tab-pane fade" id="tab2">
+                  <div className="row g-4"> 
+                    {marketingTeam.map(member => (
+                      <div key={member.id} className="col-md-6 col-lg-4 d-flex align-items-stretch">
+                        <div className="team-card-wrapper w-100 h-100">
+                          <SingleTeamV1 team={member} /> 
+                        </div>
+                      </div>
+                    ))}
+                  </div>
                 </div>
 
                 {/* TAB 3 – DÉVELOPPEUR (1) */}
-                <div className="tab-pane fade" id="tab3">
+                {/* <div className="tab-pane fade" id="tab3">
                   <Swiper 
                     slidesPerView={1} 
                     spaceBetween={30}
@@ -154,6 +168,18 @@ const TeamV1 = ({ sectionClass, hasTitle }: DataType) => {
                       </SwiperSlide>
                     ))}
                   </Swiper>
+                </div> */}
+
+                <div className="tab-pane fade" id="tab3">
+                  <div className="row g-4 justify-content-center">
+                    {developers.map(member => (
+                      <div key={member.id} className="col-md-6 col-lg-4 d-flex align-items-stretch">
+                        <div className="team-card-wrapper w-100 h-100">
+                          <SingleTeamV1 team={member} />
+                        </div>
+                      </div>
+                    ))}
+                  </div>
                 </div>
               </div>
             </div>

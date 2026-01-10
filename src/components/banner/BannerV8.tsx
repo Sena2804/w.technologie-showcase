@@ -16,7 +16,7 @@ const BannerV8 = () => {
                                 <div className="banner-title mt-80 mb-30">
 
                                     <div className="banner_text_container">
-                                        <svg 
+                                        {/* <svg 
                                             style={{ position: 'absolute', top: '-40px', right: '-20px', width: '50px', overflow: 'visible' }} 
                                             viewBox="0 0 50 50" 
                                             fill="none" 
@@ -24,10 +24,10 @@ const BannerV8 = () => {
                                             strokeWidth="7" 
                                             strokeLinecap="round"
                                         >
-                                            <line x1="15" y1="35" x2="5" y2="20" />   {/* Trait gauche */}
-                                            <line x1="25" y1="30" x2="25" y2="10" />  {/* Trait milieu */}
-                                            <line x1="35" y1="35" x2="45" y2="20" />  {/* Trait droit */}
-                                        </svg>
+                                            <line x1="15" y1="35" x2="5" y2="20" /> 
+                                            <line x1="25" y1="30" x2="25" y2="10" />
+                                            <line x1="35" y1="35" x2="45" y2="20" />
+                                        </svg> */}
                                         <h2 className="mb-0">
                                             <SplitText
                                                 className="title-left split-text banner_text_orange"
@@ -41,7 +41,7 @@ const BannerV8 = () => {
                                         </h2>
                                     </div>
 
-                                    <h2 className="title-right split-text">
+                                    <h2 className="split-text">
                                         <SplitText
                                             delay={150}
                                             animationFrom={{ opacity: 0, transform: 'translate3d(0,50px,0)' }}

@@ -19873,6 +19873,10 @@ nav.navbar.validnavs .navbar-collapse.collapse.show img.light-img {
     flex-grow: 1 !important;
 }
 
+.gutter-xl{
+	justify-content: center;
+}
+
 @media (max-width: 1405px) {
     .banner-style-eight-heading h2{
 		font-size: 70px;
